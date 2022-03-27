@@ -2,7 +2,7 @@
 - 👀 I’m interested in Back-End Development 
 - 🌱 I’m interested in partnerships and group learning ...
 - 💞️ I’m looking to collaborate on back-end for digital financial services 
-- 📫 How to reach me on twitter @omoekopataaki
+- 📫 How to reach me on twitter @NaijaAristocrat
 
 <!---
 YinkaCodes/YinkaCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
